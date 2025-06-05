@@ -1,0 +1,12 @@
+--2025-06-05 15:14:50--  https://update.code.visualstudio.com/commit:17baf841131aa23349f217ca7c570c76ee87b957/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 13.107.246.77, 2620:1ec:bdf::77
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|13.107.246.77|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://vscode.download.prss.microsoft.com/dbazure/download/stable/17baf841131aa23349f217ca7c570c76ee87b957/vscode-server-linux-x64.tar.gz [following]
+--2025-06-05 15:15:59--  https://vscode.download.prss.microsoft.com/dbazure/download/stable/17baf841131aa23349f217ca7c570c76ee87b957/vscode-server-linux-x64.tar.gz
+Resolving vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)... 146.75.54.172, 2a04:4e42:7d::684
+Connecting to vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)|146.75.54.172|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60601853 (58M) [application/octet-stream]
+Saving to: ‘/home/schiocco/.vscode-server/bin/17baf841131aa23349f217ca7c570c76ee87b957-1749129280.tar.gz’
+
